@@ -1,0 +1,11 @@
+.buttons {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+.clickable {
+    background: #000;
+    color: white;
+}
+.not-clickable {
+    background-color: yellow;
+}
